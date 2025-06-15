@@ -79,7 +79,7 @@ export default function BisoFoodsLanding() {
             <div className="flex justify-center">
               <div className="relative">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/placeholder-logo.svg?height=400&width=400"
                   alt="Deliciosos alimentos da Biso Foods"
                   width={400}
                   height={400}
